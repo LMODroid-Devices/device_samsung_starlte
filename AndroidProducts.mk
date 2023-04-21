@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_starlte.mk
+    $(LOCAL_DIR)/lmodroid_starlte.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_starlte-eng \
-    lineage_starlte-user \
-    lineage_starlte-userdebug
+    lmodroid_starlte-eng \
+    lmodroid_starlte-user \
+    lmodroid_starlte-userdebug
